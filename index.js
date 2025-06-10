@@ -8,3 +8,5 @@ function sayHello(){
     return 'Welcome Diyorbek'
 }
 sayHello();
+
+console.log("Hello world")
